@@ -1,10 +1,10 @@
 ### Hello there :grin:
 
-I’m Murilo, a full-stack developer :male-technologist:, whose specializations are [Ruby](https://www.ruby-lang.org/en/), [Rails](https://rubyonrails.org/), [Javascript](https://www.javascript.com/) and [React](https://reactjs.org/).
+I’m Murilo, a full-stack developer, whose specializations are [Ruby](https://www.ruby-lang.org/en/), [Rails](https://rubyonrails.org/), [Javascript](https://www.javascript.com/) and [React](https://reactjs.org/).
 
 Currently, I’m looking for local and remote full-stack development opportunities, particularly in small businesses and startups. I enjoy creating applications, teaching, and helping people in my community whenever they need it :handshake:.
 
-I recently graduated from Microverse :microverse:, a remote full-stack development program with a focus on git-standup and peer to peer programming. Just in the past year, I’ve built 43 projects, registered 943 hours, and completed 53 coding challenges :muscle:. 
+I recently graduated from [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on git-standup and peer to peer programming. Just in the past year, I’ve built 49 projects, registered 983 hours, and completed 60 coding challenges :muscle:. 
 
 Prior to Microverse, I worked as an Operations Manager in Oil Filtration :oil_drum:, which is where I found my love for process automation and programming. In our plant, we had multiple chemical processes happening simultaneously, from which some needed the most amount of time to complete. My goal was to optimize them by collecting data, creating graphs, and making computational calculations to discover what we had to focus on improving :bar_chart:. 
 
