@@ -13,3 +13,5 @@ Currently, I’m exploring new opportunities.
 Check out my [English Resume](https://github.com/MuriloRoque/MuriloRoque/blob/master/Murilo%20Roque%20-%20Resume.pdf) or [Portuguese Resume](https://github.com/MuriloRoque/MuriloRoque/blob/master/Murilo%20Roque%20-%20Currículo.pdf), please feel free to pass it along :scroll:.
 
 This is my [Portfolio](https://www.muriloroque.com.br/) :desktop_computer:.
+
+[![Murilo's github stats](https://github-readme-stats.vercel.app/api?username=MuriloRoque)](https://github.com/anuraghazra/github-readme-stats)
