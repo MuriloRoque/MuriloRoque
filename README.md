@@ -12,7 +12,7 @@ Check out my [English Resume](https://github.com/MuriloRoque/MuriloRoque/blob/ma
 
 This is my [Portfolio](https://www.muriloroque.com.br/) :desktop_computer:.
 
-<img align="center" src='https://github-readme-stats.vercel.app/api?username=MuriloRoque&count_private=true&show_icons=true&theme=great-gatsby' alt='Murilo's github stats'>
+[!stats](https://github-readme-stats.vercel.app/api?username=MuriloRoque&count_private=true&show_icons=true&theme=great-gatsby)
 
 <br><br>
 
