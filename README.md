@@ -41,3 +41,4 @@ This is my [Portfolio](https://www.muriloroque.com.br/) :desktop_computer:.
     <img title="Python" alt="Python" height=40 src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png">
   </span>
 </p>
+​![](https://komarev.com/ghpvc/?username=MuriloRoque)
