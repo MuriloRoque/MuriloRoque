@@ -4,7 +4,7 @@ I’m Murilo, a Full-Stack Developer, Chemical Engineer and part-time TSE.
 
 I enjoy creating applications, teaching, and helping people in my community whenever they need it :handshake:.
 
-I recently graduated from [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on git-standup and peer to peer programming. Just in the past year, I’ve built 59 projects, registered 1583 hours, and completed 97 coding challenges :muscle:. 
+Currently, I am working as a Technical Support Engineer on [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on git-standup and peer to peer programming. Just in the past year, I’ve built 59 projects, registered 1583 hours, and completed 97 coding challenges :muscle:. 
 
 Currently, I’m exploring new opportunities. 
 
