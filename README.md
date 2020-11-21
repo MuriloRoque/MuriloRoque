@@ -1,14 +1,14 @@
 ### Hello there :wave:
 
-I’m Murilo, a Full-Stack Developer, Chemical Engineer and part-time TSE.
+I’m Murilo, a Full-Stack Developer & Chemical Engineer who specializes in Ruby, Rails, and Javascript applications.
 
 I enjoy creating applications, teaching, and helping people in my community whenever they need it :handshake:.
 
-Currently, I am working as a Technical Support Engineer on [Microverse](https://www.microverse.org/), a remote full-stack development program with a focus on git-standup and peer to peer programming. Just in the past year, I’ve built 59 projects, registered 1583 hours, and completed 97 coding challenges :muscle:. 
+Currently, I am working as a Code Instructor at Trybe, a remote full-stack development school.
 
-Currently, I’m exploring new opportunities. 
+In the past, I studied at Microverse, a remote full-stack development program with a focus on git-standup and peer to peer programming.
 
-Check out my [Resume](https://github.com/MuriloRoque/MuriloRoque/blob/master/Murilo%20Roque%20-%20Resume.pdf), please feel free to pass it along :scroll:.
+Prior to Microverse, I worked as an Operations Manager in Oil Filtration, where I found a love for process automation and programming. In our plant, we had multiple chemical processes happening simultaneously, all of which had different processing times. I improved plant production by using Visual Basic to create oil processing KPI’s; this work led to 3 promotions in less than 4 years! I apply the same strategy to development, first asking myself what decisions business leaders are making and then asking what data could improve that decision-making process.
 
 This is my [Portfolio](https://www.muriloroque.com.br/) :desktop_computer:.
 
