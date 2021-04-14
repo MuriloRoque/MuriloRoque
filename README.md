@@ -4,7 +4,7 @@ I’m Murilo, a Full-Stack Developer & Chemical Engineer who specializes in Ruby
 
 I enjoy creating applications, teaching, and helping people in my community whenever they need it :handshake:.
 
-Currently, I am working as a Code Instructor at Trybe, a remote full-stack development school.
+Currently, I am working as a Fullstack Ruby on Rails Engineer at BairesDev.
 
 In the past, I studied at Microverse, a remote full-stack development program with a focus on git-standup and peer to peer programming.
 
