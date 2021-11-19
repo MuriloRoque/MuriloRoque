@@ -4,13 +4,11 @@ I’m Murilo, a Full-Stack Developer & Chemical Engineer who specializes in Ruby
 
 I enjoy creating applications, teaching, and helping people in my community whenever they need it :handshake:.
 
-Currently, I am working as a Fullstack Ruby on Rails Engineer at BairesDev.
+Currently, I am working as a Fullstack Ruby on Rails Engineer at BairesDev and Instructure. I also do Code Reviews for Microverse and Technical Interviews for Karat.
 
 In the past, I studied at Microverse, a remote full-stack development program with a focus on git-standup and peer to peer programming.
 
 Prior to Microverse, I worked as an Operations Manager in Oil Filtration, where I found a love for process automation and programming. In our plant, we had multiple chemical processes happening simultaneously, all of which had different processing times. I improved plant production by using Visual Basic to create oil processing KPI’s; this work led to 3 promotions in less than 4 years! I apply the same strategy to development, first asking myself what decisions business leaders are making and then asking what data could improve that decision-making process.
-
-This is my [Portfolio](https://www.muriloroque.com/) :desktop_computer:.
 
 <div>
 <img align="center" src='https://github-readme-stats.vercel.app/api?username=MuriloRoque&count_private=true&show_icons=true&theme=great-gatsby' alt='Murilo's github stats'>
